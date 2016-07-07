@@ -1,0 +1,3 @@
+DROP TABLE City;
+DROP TABLE Hall;
+DROP TABLE Show;
